@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algashev laba 4", "Algashev laba 4\Algashev laba 4.csproj", "{973E3F74-862F-43EA-B6E6-0729EED02AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973E3F74-862F-43EA-B6E6-0729EED02AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973E3F74-862F-43EA-B6E6-0729EED02AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973E3F74-862F-43EA-B6E6-0729EED02AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973E3F74-862F-43EA-B6E6-0729EED02AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
